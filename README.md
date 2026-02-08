@@ -78,6 +78,4 @@ Troubleshooting
 - Ollama not reachable: start the Ollama service and confirm the models are pulled.
 - Vosk path errors: double-check `MODEL_PATH` points to the extracted model folder.
 
-License
--------
-Add your license here.
+
