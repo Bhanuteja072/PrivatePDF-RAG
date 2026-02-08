@@ -1,0 +1,13 @@
+streamlit
+langgraph
+langchain-core
+langchain-ollama
+langchain-community
+langchain-text-splitters
+faiss-cpu
+vosk
+pyaudio
+pyttsx3
+unstructured
+
+
